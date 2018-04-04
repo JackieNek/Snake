@@ -1,1 +1,1 @@
-this is game snake
+this is game snake mcmc
